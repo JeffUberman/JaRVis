@@ -1,0 +1,29 @@
+{
+  "name": "JaRVis",
+  "version": "0.0.1",
+  "homepage": "https://github.com/JeffUberman/JaRVis",
+  "authors": [
+    "Vahagn Stepanyan <vahagnst@gmail.com>",
+    "Jeff Berman <jeffuberman@gmail.com>"
+  ],
+  "description": "Recursion Visualizer",
+  "main": "index.html",
+  "keywords": [
+    "recursion",
+    "visualizer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-ui-ace": "bower",
+    "d3": "~3.5.6",
+    "d3-tip": "~0.6.7"
+  }
+}
